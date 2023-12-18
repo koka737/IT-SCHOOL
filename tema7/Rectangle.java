@@ -1,6 +1,5 @@
 package tema7;
 
-import Date.Date;
 
 public class Rectangle {
     private int length;
